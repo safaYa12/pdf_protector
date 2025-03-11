@@ -21,7 +21,7 @@ PyPDF2 module
 Clone the repository and install dependencies:
 
 # Clone the repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/pdf_protector.git
+git clone https://github.com/safaYa12/pdf_protector.git
 cd pdf_protector
 
 # Create a virtual environment (optional but recommended)
