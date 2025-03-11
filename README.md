@@ -32,8 +32,11 @@ source myenv/bin/activate  # On Windows, use `myenv\Scripts\activate`
 pip install -r requirements.txt
 
 🔑 Usage
+This Tool is User interactive , So just run the .py file it will ask the corresponding questions
 
 To encrypt a PDF, run:
+
+python3 pdf_protector.py
 
 python pdf_protector.py -i input.pdf -o output.pdf -p yourpassword
 
